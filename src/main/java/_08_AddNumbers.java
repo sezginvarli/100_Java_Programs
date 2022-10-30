@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _08AddNumbers {
+public class _08_AddNumbers {
     public static void main(String[] args) {
         int x, y, z;
         System.out.println("Enter two integers to calculate their sum");
@@ -13,3 +13,4 @@ public class _08AddNumbers {
     }
 
    }
+
